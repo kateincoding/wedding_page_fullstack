@@ -1,4 +1,5 @@
 import React from 'react'
+// import FontSizeChanger from 'react-font-size-changer'
 
 function Header () {
   return (
@@ -9,8 +10,8 @@ function Header () {
       <div className='container'>
         <div className='row'>
           <div className='col-md-12 text-center caption'>
-            <h1 className='animate-box' data-animate-effect='fadeInUp'>
-              Olivia & Enrico
+            <h1 className='animate-box' data-animate-effect='fadeInUp' style={{'fontSize': '90px'}}>
+              Katherine & Walther
             </h1>
             <h5 className='animate-box' data-animate-effect='fadeInUp'>
               17 de Setiembre, 2022 – Lima, Peru

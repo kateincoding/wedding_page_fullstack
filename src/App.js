@@ -1,3 +1,4 @@
+import React, { Component }  from 'react';
 import Bridegroom from './components/Bridegroom';
 import Countdown from './components/Countdown';
 import Footer from './components/Footer';

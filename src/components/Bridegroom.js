@@ -18,9 +18,9 @@ function Bridegroom () {
               <div className='info valign'>
                 <div className='full-width'>
                   <h6>
-                    Olivia Martin <i className='ti-heart'></i>
+                    Katherine Soto <i className='ti-heart'></i>
                   </h6>{' '}
-                  <span>The Bride</span>
+                  <span>La Novia</span>
                   <p>
                     Olivia fringilla dui at elit finibus viverra nec a lacus
                     seda themo the miss druane semper sollicitudin non the
@@ -58,9 +58,9 @@ function Bridegroom () {
               <div className='info valign'>
                 <div className='full-width'>
                   <h6>
-                    Enrico Danilo <i className='ti-heart'></i>
+                    Walther Nunez <i className='ti-heart'></i>
                   </h6>{' '}
-                  <span>The Groom</span>
+                  <span>El novio</span>
                   <p>
                     Enrico fringilla dui at elit finibus viverra nec a lacus
                     seda themo the miss druane semper sollicitudin non the
@@ -92,9 +92,9 @@ function Bridegroom () {
             className='col-md-12 text-center animate-box'
             data-animate-effect='fadeInUp'
           >
-            <h3 className='oliven-couple-title'>Are getting married!</h3>
+            <h3 className='oliven-couple-title'>Nos casamos!</h3>
             <h4 className='oliven-couple-subtitle'>
-              December 15, 2021 — New York, Brooklyn
+              17 de setiembre del 2022 - Lima, Peru
             </h4>
           </div>
         </div>

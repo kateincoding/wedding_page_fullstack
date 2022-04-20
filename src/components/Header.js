@@ -13,7 +13,7 @@ function Header () {
               Olivia & Enrico
             </h1>
             <h5 className='animate-box' data-animate-effect='fadeInUp'>
-              15 December, 2021 – New York
+              17 de Setiembre, 2022 – Lima, Peru
             </h5>
           </div>
         </div>

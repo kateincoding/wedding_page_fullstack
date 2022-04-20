@@ -19,9 +19,9 @@ function Sidebar () {
           <a href='/'>
             <img src={Logo} alt='' />
             <span>
-              Olivia <small>&</small> Enrico
+              Katherine <small>&</small> Walther
             </span>
-            <h6>15.11.2021</h6>
+            <h6>17.09.2022</h6>
           </a>
         </div>
         <nav className='oliven-main-menu'>
@@ -49,15 +49,24 @@ function Sidebar () {
             </li>
           </ul>
         </nav>
-        <div className='footer1'>
+        { /* <div className='footer1'>
           {' '}
           <span className='separator'></span>
           <p>
-            Olivia & Enrico wedding
             <br />
-            15 December 2021, New York
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            Katherine & Walther wedding
+            <br />
+            17 Setiembre 2022, Lima
           </p>
-        </div>
+        </div>*/}
       </aside>
     </>
   )

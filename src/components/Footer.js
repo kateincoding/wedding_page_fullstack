@@ -10,11 +10,11 @@ function Footer () {
               <a href='/'>
                 <img src={Logo} alt='' />
                 <span>
-                  Olivia <small>&</small> Enrico
+                  Katherine <small>&</small> Walther
                 </span>
               </a>
             </h2>
-            <p className='copyright'>December 15, 2021 – New York, Brooklyn</p>
+            <p className='copyright'>17 de Setiembre, 2022 – Lima, Peru</p>
           </div>
         </div>
       </div>
